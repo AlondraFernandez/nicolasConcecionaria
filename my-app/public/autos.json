@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "modelo": "Renault Sandero",
+      "año": 2020,
+        "kilometros": 50.000,
+        "motor": "1.6",
+        "combustible": "Nafta",
+        "version": "tech run",
+      "precio": 25000,
+      "imagen": "/img/sandero.jpeg",
+      "imagenes": [
+        "/img/sandero.jpeg",
+        "/img/sandero2.jpeg",
+        "/img/sandero3.jpeg"
+      ]
+      
+    },
+    {
+      "id": 2,
+      "modelo": "Ford Focus",
+      "año": 2015,
+    "kilometros": 0,
+        "motor": "2.0",
+        "combustible": "Nafta",
+        "version": "se",
+      "precio": 55000,
+      "imagen": "/img/focus.jpeg",
+      "imagenes": [
+        "/img/focus2.jpeg",
+        "/img/focus3.jpeg",
+        "/img/focus4.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "modelo": "fiat Strada",
+      "año": 2025,
+    "kilometros": 0,
+        "motor": "1.0t200",
+        "combustible": "Nafta",
+        "version": "ultra cvt",
+      "precio": 48000,
+      "imagen": "/img/fiat.jpeg",
+      "imagenes": [
+        "/img/strada2.jpeg",
+        "/img/strada3.jpeg",
+        "/img/strada4.jpeg"
+      ]
+    }
+  ]
+  
